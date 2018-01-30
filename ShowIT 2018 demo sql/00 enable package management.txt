@@ -1,0 +1,4 @@
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER900\R_SERVICES\library\RevoScaleR\rxLibs\x64>registerrexe /installpkgmgmt
+
+C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER900\R_SERVICES\bin\x64>rterm
+install.packages("ROCR");
